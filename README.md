@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import smskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-smskmax@esm/index.mjs';
+import smskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-smskmax@v0.1.0-esm/index.mjs';
 ```
 
 #### smskmax( arrays )
@@ -105,7 +105,7 @@ import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@esm/index.mjs';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ctor@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
-import smskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-smskmax@esm/index.mjs';
+import smskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-smskmax@v0.1.0-esm/index.mjs';
 
 var xbuf = uniform( 10, -50.0, 50.0, {
     'dtype': 'float32'
